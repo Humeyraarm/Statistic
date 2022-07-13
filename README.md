@@ -1,2 +1,2 @@
 # Statistic
-Advanced statistic with python
+Advanced statistic operations with python
